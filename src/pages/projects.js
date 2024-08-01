@@ -20,7 +20,7 @@ const Projects = () => {
       </header>
       <div className="sidebar">
         <a href="/projects">Voir Projets</a>
-        <a href="/projects/add">Ajouter Projet</a>
+        <a href="/addproject">Ajouter Projet</a>
       </div>
       <main className="main">
         <div className="card">

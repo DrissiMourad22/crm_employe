@@ -20,7 +20,7 @@ const Employees = () => {
       </header>
       <div className="sidebar">
         <a href="/employees">Liste des Employés</a>
-        <a href="/employees/add">Ajouter Employé</a>
+        <a href="/add">Ajouter Employé</a>
       </div>
       <main className="main">
         <EmployeeList />
